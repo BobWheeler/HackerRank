@@ -1,7 +1,7 @@
 
 Welcome. If you have access to this repository then you are on the team and, clearly you know about it. 
 
-Always remember that **_this not a techincal project_**. What we are doing is simply building a high speed, low latency, highly reliable and fault tollarant tickerplant. The design and implimentation of which is running in every high end investment bank in Manhattan. That doesn't mean that it won't be challenging or hard, it just means there is very little technical risk. 
+Always remember that **_this not a techincal project_**. What we are doing is simply building a high speed, low latency, highly reliable and fault tollarant tickerplant. The design and implimentation of which is running in every high end investment bank in Manhattan. That doesn't mean that it won't be challenging or hard, it just means there is very little technical risk. å
 
 **_This project is first and formost a political one._** So please keep this under wraps until we have the politics in place and gradually work it. if it's leaked before we have the political infrastructure and prototype, the it will be very difficult to bring it to fruition. But when we do, it will blow away the already encroaching number of competitors in the ad space. 
 
